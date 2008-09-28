@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>module Ape
+  class $1Validator &lt; Validator
+    requires_presence_of $2
+
+    def validate(opts = {})
+      $0
+    end
+  end
+end
+</string>
+	<key>name</key>
+	<string>validator</string>
+	<key>tabTrigger</key>
+	<string>apeval</string>
+	<key>uuid</key>
+	<string>30BB4F2E-864D-4C39-B63B-E9C8A26C62FC</string>
+</dict>
+</plist>
