@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>module Ape
+  class $1Reporter &lt; Reporter
+
+    def report(output = STDOUT)
+      $0
+    end
+  end
+end
+</string>
+	<key>name</key>
+	<string>reporter</string>
+	<key>tabTrigger</key>
+	<string>reporter</string>
+	<key>uuid</key>
+	<string>492D55F3-1F3B-4CDA-9A85-E6AA7B1033AC</string>
+</dict>
+</plist>

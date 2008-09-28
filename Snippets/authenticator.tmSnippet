@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>module Ape
+  class $1Credentials
+    def add_credentials(request, auth_header, user, password)
+      $0
+    end
+  end
+end
+</string>
+	<key>name</key>
+	<string>authenticator</string>
+	<key>tabTrigger</key>
+	<string>auth</string>
+	<key>uuid</key>
+	<string>5A3D6DD0-65AE-41B2-BEC4-EAFF725F0E31</string>
+</dict>
+</plist>
